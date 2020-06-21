@@ -5,7 +5,7 @@ The bot is made using Dijkstra's algorithm to find the optimal move that will ac
   
 Running the program with level 3, ai, max propagation and budget of 1000 looks something like this:
 
-<img src="images/example1.JPG" alt="alt text" width="340" height="450">
+<img src="images/example1.JPG" alt="alt text" width="380" height="450">
 
 
 To execute this juicy pacman bot, you need to have a linux terminal / ubuntu.
