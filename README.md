@@ -11,7 +11,7 @@ Running the program with level 3, ai, max propagation and budget of 1000 looks s
 To execute this juicy pacman bot, you need to have a linux terminal / ubuntu.
 
 
-Run the following command to install ncurses:
+Run the following command to install ncurses which is needed to run the game:
 
 sudo apt-get install libncurses5-dev libncursesw5-dev 
 
