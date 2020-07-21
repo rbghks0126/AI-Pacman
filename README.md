@@ -1,7 +1,7 @@
 # AI-Pacman
 Pacman bot using Dijkstra's Algorithm in C
 
-The bot is made using Dijkstra's algorithm to find the optimal move that will achieve the highest score at each move. The number of nodes that the pacman considers (explores) in coming up with the optimal move is limited by the <budget>. 1000 will do reasonably good with satisfactory speed. 
+The bot is made using Dijkstra's algorithm to find the optimal move that will achieve the highest score at each step. The number of nodes that the pacman considers (explores) in coming up with the optimal move is limited by the <budget>. 1000 will do reasonably good with satisfactory speed. 
   
 Running the program with level 3, ai, max propagation and budget of 1000 looks something like this:
 
