@@ -18,4 +18,4 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 
 Run the bot by:
 
-./pacman <level> <ai/ai pause> <max/avg> budget
+./pacman {level} {ai/ai pause} {max/avg} {budget}
