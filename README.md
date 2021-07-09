@@ -17,5 +17,5 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 
 
 Run the bot by:
-
+Going to the relevant directory and type
 ./pacman {level} {ai/ai pause} {max/avg} {budget}
